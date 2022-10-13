@@ -2,7 +2,7 @@
 Repositório criado para armazenar os materiais do Bootcamp Geração Tech Unimed-BH - Ciência de Dados.
 
 <h1 align="center">
-    <img alt="Python Codes" title="#PythonCodes" src="./bootcamp-logo.png" width="360px" />
+    <img alt="Python Codes" title="#PythonCodes" src="./bootcamp-logo.png" width="350px" />
 </h1>
 
 <h4 align="center"> 
